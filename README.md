@@ -4,7 +4,7 @@
     <p>Esse Trabalho é do ano passado do curso de Desenvolvimento de Sistemas da matéria Programação Web</p><br>
 </div>
   
-  ### AUTHORS
+  ## AUTHORS
 <div><br>
 -> João Victor Soave (Css)<br>
 -> Lucas Fernandes Antunes (Designer)<br>
@@ -14,7 +14,7 @@
   
   <br><br>
   
-  ### CONTATOS DE TODOS OS ENVOLVIDOS!!:email:
+  ## CONTATOS DE TODOS OS ENVOLVIDOS!!:email:
 <div>
     <p>João Victor Soave:</p>
     <a href = "mailto:joao.soave01@etec.sp.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
@@ -28,26 +28,26 @@
 
 <br><br>
 
-### IMAGENS DOS SITES:
+## IMAGENS DOS SITES:
 
 <br>
 
-## Home
+### Home
 <div>
  <img src="https://cdn.discordapp.com/attachments/796077210720272394/902670644687274035/unknown.png"><br>
 </div>
 
-## Página 1
+### Página 1
 <div>
  <img src="https://cdn.discordapp.com/attachments/796077210720272394/902670704921694248/unknown.png"><br>
 </div>
 
-## Página 2
+### Página 2
 <div>
  <img src="https://cdn.discordapp.com/attachments/796077210720272394/902670816255279104/unknown.png"><br>
 </div>
 
-## Sobre
+### Sobre
 <div>
  <img src="https://cdn.discordapp.com/attachments/796077210720272394/902670882911178812/unknown.png"><br>
 </div>

@@ -28,7 +28,7 @@
 
 <br><br>
 
-## IMAGENS DOS SITES:photo:
+## IMAGENS DOS SITES:photos:
 
 <br>
 

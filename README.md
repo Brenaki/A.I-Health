@@ -1,10 +1,10 @@
-# A.I-Health
+# A.I-HEALTH
   
   <div>
     <p>Esse Trabalho é do ano passado do curso de Desenvolvimento de Sistemas da matéria Programação Web</p><br>
 </div>
   
-  ### Authors
+  ### AUTHORS
 <div><br>
 -> João Victor Soave (Css)<br>
 -> Lucas Fernandes Antunes (Designer)<br>
@@ -14,7 +14,7 @@
   
   <br><br>
   
-  ### Contados de todo mundo!!:email:
+  ### CONTATOS DE TODOS OS ENVOLVIDOS!!:email:
 <div>
     <p>João Victor Soave:</p>
     <a href = "mailto:joao.soave01@etec.sp.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
@@ -28,7 +28,7 @@
 
 <br><br>
 
-### Imagens dos Sites:
+### IMAGENS DOS SITES:
 
 <br>
 

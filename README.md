@@ -1,10 +1,10 @@
-# A.I-HEALTH
+# A.I-HEALTH 👨‍💻
   
   <div>
     <p>Esse Trabalho é do ano passado do curso de Desenvolvimento de Sistemas da matéria Programação Web</p><br>
 </div>
   
-  ## AUTHORS
+  ## AUTHORS ✍️ 
 <div><br>
 -> João Victor Soave (Css)<br>
 -> Lucas Fernandes Antunes (Designer)<br>

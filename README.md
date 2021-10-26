@@ -14,7 +14,7 @@
   
   <br><br>
   
-  ## CONTATOS DE TODOS OS ENVOLVIDOS!!:email:
+  ## CONTATOS DE TODOS OS ENVOLVIDOS!! :email:
 <div>
     <p>João Victor Soave:</p>
     <a href = "mailto:joao.soave01@etec.sp.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
@@ -28,7 +28,7 @@
 
 <br><br>
 
-## IMAGENS DOS SITES🎴
+## IMAGENS DOS SITES 🎴
 
 <br>
 

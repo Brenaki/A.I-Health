@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Lucas Fernandes">
+    <meta name="keywords" content="Progeto/Sobre HTML CSS">
+    <title>Sobre</title>
+    <link rel="stylesheet" href="Sobre_estilo.css"> 
+    <link href="https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@300&family=Teko:wght@300&display=swap" rel="stylesheet">
+</head>
+
+<body> 
+    
+    
+    <header>
+        <div class="wrapper">
+            <div class="logo">
+                <img src="logo.png">
+            </div>
+            <nav>
+                <a href="Home.html" target="_blank">Home</a>
+                <a href="Pagina1.html" target="_blank">Página 1</a>
+                <a href="Pagina2.html" target="_blank">Página 2</a>
+            </nav>
+        </div>
+        <a class="cta" href="Sobre.html" target="_blank"><button>Sobre</button></a>
+    </header>
+
+    <!--Começa o conteúdo da página-->  
+ 
+    <!--Primeiro bloco-->
+     
+     <div class="banner-area">
+        <h2>Sobre</h2>
+     </div>
+
+    <div class="content-area">
+    <div class="wrapper">
+            <h2>Quem somos?</h2>
+            <p>A A.I.Health é uma organização com a intenção de aprimorar os conceitos da saúde por meio da IA, utilizando tecnologias avançadas. Criada por 4 adolescentes em 2017 a A.I.Health foi responsável por um crescimento de 78,7% das pesquisas e protótipos que ajudaram na cura do cancêr. Além de projetos na área de nanotecnologias e equipamentos a base de IA, a A.I.Health também vem trabalhando e projétos relacionados ao Transhumanismo, e desenvolvimento de andróides cuidadores focados na área da saúde. 
+       
+            <br><br>       
+
+            <center><h2>CEO's</h2></center>
+            
+            <br><br><br><br><br>
+            <!--//////////////////////////////////-->
+           
+             <!--Fotos-->
+                
+              
+                <!--///////////////pt-CIMA///////////////////-->
+
+            <center><div class="cima">
+                
+                <div  class="p1">
+                    
+                    <img class="img1" src="fotos_grupo/Victor.jpg" alt="Imagem não carregada">
+                    
+                    <div class="texto_p">
+                        <p>Victor Angelo Legat Cerqueira<br>
+                        E-mail:victor.cerqueira3@etec.sp.gov.br<br>
+                    </div> 
+                </div>
+
+                <div  class="p1">
+                    
+                    <img class="img1" src="fotos_grupo/Pedro.jpg" alt="Imagem não carregada">
+                    
+                    
+                    <div class="texto_p">
+                        <p>Pedro Henrique Guedes<br>
+                        E-mail: pedro.guedes8@etec.sp.gov.br<br>
+                    </div>
+                </div>
+            </div></center>
+              
+                <!--///////////////pt-BAIXO///////////////////-->
+              
+            <center><div class="baixo"> 
+                
+                <div class="p2">
+                    
+                    <img class="img1" src="fotos_grupo/joão.jpg" alt="Imagem não carregada">
+                    
+                    <div class="texto_p">
+                        <p>joão Victor Soave<br>
+                        E-mail: joao.soave01@etec.sp.gov.br<br> 
+                    </div>
+                </div>
+
+                <div class="p2">
+                    
+                    <img class="img1" src="fotos_grupo/Lucas1.jpeg" alt="Imagem não carregada">
+
+                    <div class="texto_p">
+                        <p>Lucas Fernandes Antunes<br>
+                        E-mail: lucas.antunes34@etec.sp.gov.br<br>
+                    </div>
+                </div>
+            </div></center>
+
+        <center><h2>ODS #3</h2></center>
+        
+        <br><br>
+        <div class="vid">
+         <iframe class="video" height="500" src="https://www.youtube.com/embed/LMOynUxsGHo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div> 
+        
+        <center><h2>Instagram da Equipe</h2></center>
+    
+        <br><br>
+        <div class="markt">
+         <a href="https://www.instagram.com/ai._health/" target="_blank"><img class="imgmar" src="img_link.png" title=""></a>
+        </div>
+            
+    </div>
+    </div>
+
+</body>
+</html>

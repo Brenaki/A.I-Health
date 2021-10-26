@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+     <head>
+         <title>Home A.I Health</title>
+         <meta charset="UTF-8">
+         <meta name="author" content="Victor Angelo Legat Cerqueira"> 
+         <meta name="keywords" content="html, homepages, CSS">
+         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <link rel="stylesheet" type="text/css" href="CSSHome.css">
+         <link href="https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@300&family=Teko:wght@300&display=swap" rel="stylesheet">
+     </head>
+     <body>
+      <div class="box-area">
+          <header>
+              <div class="wrapper">
+                  <div class="logo">
+                      <img src="logo.png">
+                  </div>
+                  <nav>
+                      <a href="Home.html" target="_blank">Home</a>
+                      <a href="Pagina1.html" target="_blank">Página 1</a>
+                      <a href="Pagina2.html" target="_blank">Página 2</a>
+                  </nav>
+              </div>
+              <a class="cta" href="SOBRE.html" target="_blank"><button>Sobre</button></a>
+          </header>
+          <div class="banner-area">
+              <h2>HOME</h2>
+          </div>
+          <div class="content-area">
+              <div class="wrapper">
+                  <h2>O que é inteligência artificial?</h2>
+                  <p>Inteligência artificial é um agrupamento de 
+                      tecnologias que permite que um sistema consiga 
+                      aprender conceitos. Para que isso acontecer, 
+                      os sistemas são abastecidos por uma grande quantidade de dados, 
+                      possibilitando o aprendizado e a ampliação dos conhecimentos e capacidades.
+                    </p>
+                    <p>Esse vídeo abaixo vai falar um pouco sobre o que é inteligência artificial</p>
+                    <p>Por favor pule para o minuto <a href="https://www.youtube.com/embed/UhA_ZgI-otM" target="_bank">0:40</a> para que o vídeo comece a explicar sobre o assunto de inteligência artificial</p>
+              </div>
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/UhA_ZgI-otM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <h2>Quais seus benefícios para a área da saúde?</h2>
+              <p>Assim como em outros setores, 
+                  a inteligência artificial na 
+                  saúde busca facilitar os processos 
+                  do cotidiano. Essa eficiência é usada 
+                  em processos técnicos, logísticos e de 
+                  desenvolvimento de novas tecnologias que 
+                  apliquem a IA.
+                <br>
+                Desse modo, a tecnologia na saúde tem 
+                objetivos que visam transformar os 
+                processos e procedimentos, 
+                indo desde a indústria médica até o 
+                histórico de diagnósticos de cada paciente. 
+                Veja melhorias que já podem ser notadas no setor.
+                </p>
+                <p>Para saber um pouco mais sobre 
+                    Inteligência Artificial assista: 
+                <a href="https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc" target="_bank">The Age of A.I </a>
+                    Obs: Serie legendada.</p>
+            </div>
+      </div>
+  </body>
+  </html>

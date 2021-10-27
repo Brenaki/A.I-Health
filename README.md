@@ -17,7 +17,7 @@
   ## CONTATOS DE TODOS OS ENVOLVIDOS!! :email:
 <div>
     <p>João Victor Soave:</p>
-    <a href = "mailto:joao.soave01@etec.sp.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
+    <a href = "mailto:joao.soave01@etec.sp.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href = "https://github.com/jvsoave"><img src="https://cdn.discordapp.com/attachments/796077210720272394/903039949354451004/25231.png" target="_blank" height="30" width="40" ></a><br>
     <p>Lucas Fernandes Antunes:</p>
     <a href = "mailto:lucas.antunes34@etec.sp.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
